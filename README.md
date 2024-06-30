@@ -71,4 +71,4 @@ N/A
 Ifeoluwa Adewoyin
 
 ## Acknowledgments
-- Southern New Hampshire University
+Southern New Hampshire University
